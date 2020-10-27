@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Dell
+Build-Jdk: 1.8.0_221
+Class-Path: ./lib/enviroment-common-0.0.1-SNAPSHOT.jar ./lib/junit-4.1
+ 3.jar ./lib/hamcrest-core-1.3.jar ./lib/lombok-1.18.12.jar ./lib/log4
+ j-1.2.17.jar
+Main-Class: com.briup.gateway.Application
+Created-By: Maven Integration for Eclipse
+
