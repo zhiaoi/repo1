@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:18 +0800] "GET /ssm_web/product/findAll.do HTTP/1.1" 302 - http-bio-8888-exec-1 70
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:18 +0800] "GET /ssm_web/login.jsp HTTP/1.1" 200 2579 http-bio-8888-exec-2 440
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:19 +0800] "GET /ssm_web/plugins/ionicons/css/ionicons.min.css HTTP/1.1" 304 - http-bio-8888-exec-4 0
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:19 +0800] "GET /ssm_web/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - http-bio-8888-exec-3 30
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:19 +0800] "GET /ssm_web/plugins/adminLTE/css/AdminLTE.css HTTP/1.1" 304 - http-bio-8888-exec-5 20
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:19 +0800] "GET /ssm_web/plugins/jQuery/jquery-2.2.3.min.js HTTP/1.1" 304 - http-bio-8888-exec-8 10
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:19 +0800] "GET /ssm_web/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 - http-bio-8888-exec-6 12
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:19 +0800] "GET /ssm_web/plugins/iCheck/icheck.min.js HTTP/1.1" 304 - http-bio-8888-exec-11 12
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:19 +0800] "GET /ssm_web/plugins/iCheck/square/blue.css HTTP/1.1" 304 - http-bio-8888-exec-10 13
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:19 +0800] "GET /ssm_web/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - http-bio-8888-exec-7 12
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:19 +0800] "GET /ssm_web/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 - http-bio-8888-exec-10 10
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:19 +0800] "GET /ssm_web/plugins/iCheck/square/blue.png HTTP/1.1" 304 - http-bio-8888-exec-10 5
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:24 +0800] "POST /ssm_web/login.do HTTP/1.1" 200 12797 http-bio-8888-exec-10 930
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:30 +0800] "GET /ssm_web/sysLog/findAll.do HTTP/1.1" 200 17199 http-bio-8888-exec-10 205
+0:0:0:0:0:0:0:1 - - [01/May/2020:22:46:30 +0800] "GET /ssm_web/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js HTTP/1.1" 200 39213 http-bio-8888-exec-10 5
